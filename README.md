@@ -11,7 +11,7 @@
 ## 🚀 Live Demo
 
 Experience the premium interface live in action here:  
-🔗 **[Live Demo](https://shozon-roy.github.io/MY-IPTV/)**
+🔗 **[Live Demo](https://myiptvlive.vercel.app)**
 
 ---
 
