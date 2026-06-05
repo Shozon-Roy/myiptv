@@ -17,7 +17,9 @@ Experience the premium interface live in action here:
 
 ## 📸 Preview & Interface
 
-![MY IPTV Main Interface](https://raw.githubusercontent.com/shozon-roy/MY-IPTV/main/preview.png)  
+![MY IPTV Main Interface](https://raw.githubusercontent.com/shozon-roy/MY-IPTV/main/preview.jpg) 
+
+![2](https://raw.githubusercontent.com/shozon-roy/MY-IPTV/main/preview2.jpg)  
 ### ✨ Key Features Overview:
 *   **Cinematic Video Engine:** In-app sticky fluid player supporting adaptive `.m3u8` streams (HLS).
 *   **Dynamic UI Architecture:** Beautiful grid styling with dynamic logo backups and interactive glowing hover properties.
